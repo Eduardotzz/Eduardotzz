@@ -1,4 +1,4 @@
-<!-- VISUALIZAÇÕES NO CANTO EXTREMO ESQUERDO -->
+<!-- VISUALIZAÇÕES NO CANTO ESQUERDO EXTREMO -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=flat-square" />
 </p>
@@ -18,19 +18,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=9400D3&center=true&vCenter=true&width=750&lines=17+anos;Estudante+de+Desenvolvimento+de+Sistemas;Construindo+meu+futuro+linha+por+linha;Mentalidade+de+crescimento+constante;Sempre+em+busca+de+evolução" />
 </p>
 
-<!-- CARINHA PROGRAMANDO -->
+<!-- HERO SECTION - PROGRAMADOR VERDE OCUPANDO TELA -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🎓 17 anos  
-- 💻 Concluindo Desenvolvimento de Sistemas  
-- 📈 Mentalidade de crescimento constante  
-- 🔥 Focado em virar um dev de alto nível  
+Sou **Eduardo Henrique Fernandes Ferreira**, tenho 17 anos e estou concluindo o curso de **Desenvolvimento de Sistemas**.  
+
+Sou movido por evolução constante, disciplina e foco em crescimento profissional.  
+Busco me destacar na área de tecnologia através de estudo intenso, prática e construção de projetos sólidos.  
+
+Meu objetivo é me tornar um desenvolvedor de alto nível, dominando backend, frontend e banco de dados.
 
 ---
 
