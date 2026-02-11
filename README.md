@@ -5,22 +5,7 @@
 
 <!-- BANNER 3D ROXO ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving
-  &height=350
-  &text=Eduardo%20Henrique%20Fernandes%20Ferreira
-  &fontSize=38
-  &fontAlign=50
-  &fontAlignY=40
-  &animation=twinkling
-  &color=0:4B0082,25:6A0DAD,50:8A2BE2,75:9400D3,100:4B0082
-  &fontColor=FF0000
-  &stroke=FF0000
-  &strokeWidth=1.5
-  &desc=Desenvolvedor%20em%20Constante%20Evolução%20💻👋🏻
-  &descAlign=50
-  &descAlignY=65
-  &descSize=22
-  &descColor=FF0000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=38&fontAlign=50&fontAlignY=40&animation=twinkling&color=0:4B0082,25:6A0DAD,50:8A2BE2,75:9400D3,100:4B0082&fontColor=FF0000&stroke=FF0000&strokeWidth=1.5&desc=Desenvolvedor%20em%20Constante%20Evolução%20💻👋🏻&descAlign=50&descAlignY=65&descSize=22&descColor=FF0000" />
 </p>
 <!-- NOME PRINCIPAL ESTILIZADO (MANTIDO) -->
 <h1 align="center">
