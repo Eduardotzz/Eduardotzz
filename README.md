@@ -3,12 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=flat-square" />
 </p>
 
-<!-- BANNER ROXO 3D -->
+<!-- BANNER NOVO ESTILOSO (ANIMADO E FONTE MELHOR) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=42&fontAlign=50&fontAlignY=38&color=0:8A2BE2,50:9400D3,100:4B0082&animation=twinkling&fontColor=ffffff&stroke=ffffff&strokeWidth=2&desc=Desenvolvedor%20em%20Constante%20Evolução&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=38&fontAlign=50&fontAlignY=42&color=0:4B0082,50:8A2BE2,100:9400D3&animation=fadeIn&fontColor=ffffff&stroke=ffffff&strokeWidth=1.5&desc=Desenvolvedor%20em%20Constante%20Evolução&descAlign=50&descAlignY=65&descSize=20" />
 </p>
 
-<!-- NOME PRINCIPAL ESTILIZADO -->
+<!-- NOME PRINCIPAL ESTILIZADO (MANTIDO) -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2500&pause=1500&color=8A2BE2&center=true&vCenter=true&width=950&lines=👾+Eduardo+Henrique+Fernandes+Ferreira;💻+Full+Stack+Developer+in+Progress;🚀+Sempre+em+Busca+de+Evolução" />
 </h1>
