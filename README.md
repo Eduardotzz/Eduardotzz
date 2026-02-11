@@ -3,16 +3,15 @@
   <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=flat-square" />
 </p>
 
-<!-- ANIME PROGRAMANDO NO TOPO -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-</p>
-
-<!-- BANNER ROXO 3D -->
+<!-- BANNER ROXO 3D COM NOME -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=38&fontAlign=50&fontAlignY=38&animation=twinkling&color=0:1A002B,25:2E003E,50:4B0082,75:6A0DAD,100:8A2BE2&fontColor=ffffff&stroke=ffffff&strokeWidth=1&desc=Desenvolvedor%20em%20Constante%20Evolução%20💻👋🏻&descAlign=50&descAlignY=63&descSize=22&descColor=ffffff" />
 </p>
 
+<!-- ANIME PROGRAMANDO -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
 ---
 
 ## 🚀 Sobre Mim
