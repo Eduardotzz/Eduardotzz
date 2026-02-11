@@ -1,21 +1,26 @@
-<!-- VISUALIZAÇÕES NO CANTO ESQUERDO -->
+<!-- VISUALIZAÇÕES NO CANTO EXTREMO ESQUERDO -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=flat-square" />
 </p>
 
-<!-- BANNER 3D ROXO -->
+<!-- BANNER ROXO 3D ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=42&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:9400D3,100:4B0082&animation=twinkling&fontColor=ffffff&stroke=ffffff&strokeWidth=2&desc=Desenvolvedor%20em%20Evolução&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=45&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:9400D3,100:4B0082&animation=twinkling&fontColor=ffffff&stroke=ffffff&strokeWidth=2&desc=Desenvolvedor%20em%20Constante%20Evolução&descAlign=50&descAlignY=65" />
 </p>
 
-<!-- NOME PRINCIPAL 3D -->
+<!-- NOME PRINCIPAL ANIMADO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=2000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=500&lines=Eduardo💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=3000&pause=2000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=600&lines=Eduardo💻" />
 </h1>
 
-<!-- ANIMAÇÃO DIGITANDO -->
+<!-- FRASES DIGITANDO E APAGANDO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=700&lines=17+anos;Estudante+de+Desenvolvimento+de+Sistemas;Construindo+meu+futuro+linha+por+linha;Mentalidade+de+crescimento+constante;Sempre+em+busca+de+evolução" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=9400D3&center=true&vCenter=true&width=750&lines=17+anos;Estudante+de+Desenvolvimento+de+Sistemas;Construindo+meu+futuro+linha+por+linha;Mentalidade+de+crescimento+constante;Sempre+em+busca+de+evolução" />
+</p>
+
+<!-- CARINHA PROGRAMANDO -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 ---
@@ -23,9 +28,9 @@
 ## 🚀 Sobre Mim
 
 - 🎓 17 anos  
-- 💻 Concluindo curso de Desenvolvimento de Sistemas  
-- 📈 Busco evolução constante  
-- 🔥 Focado em crescer na área de tecnologia  
+- 💻 Concluindo Desenvolvimento de Sistemas  
+- 📈 Mentalidade de crescimento constante  
+- 🔥 Focado em virar um dev de alto nível  
 
 ---
 
@@ -50,4 +55,15 @@
 
 <p align="center">
   <a href="mailto:edduardohenrique76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/eduardo.97_">
+    <img src="https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:9400D3,100:8A2BE2&height=120&section=footer"/>
+</p>
