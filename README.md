@@ -3,14 +3,14 @@
   <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=flat-square" />
 </p>
 
-<!-- BANNER ROXO 3D ANIMADO -->
+<!-- BANNER PROTAGONISTA ROXO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=45&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:9400D3,100:4B0082&animation=twinkling&fontColor=ffffff&stroke=ffffff&strokeWidth=2&desc=Desenvolvedor%20em%20Constante%20Evolução&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=360&text=Eduardo%20Henrique%20Fernandes%20Ferreira%20👋🏻💻&fontSize=52&fontAlign=50&fontAlignY=42&color=0:8A2BE2,40:9400D3,70:6A0DAD,100:4B0082&animation=twinkling&fontColor=ffffff&stroke=ffffff&strokeWidth=3&desc=Desenvolvedor%20em%20Constante%20Evolução&descAlign=50&descAlignY=70" />
 </p>
 
 <!-- NOME PRINCIPAL ANIMADO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=3000&pause=2000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=600&lines=Eduardo💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2800&pause=1800&color=8A2BE2&center=true&vCenter=true&repeat=true&width=650&lines=Eduardo💻;Bem-vindo+ao+meu+GitHub" />
 </h1>
 
 <!-- FRASES DIGITANDO E APAGANDO -->
@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=9400D3&center=true&vCenter=true&width=750&lines=17+anos;Estudante+de+Desenvolvimento+de+Sistemas;Construindo+meu+futuro+linha+por+linha;Mentalidade+de+crescimento+constante;Sempre+em+busca+de+evolução" />
 </p>
 
-<!-- HERO SECTION - ANIME PROGRAMANDO (OCUPANDO MÁXIMO DA TELA) -->
+<!-- HERO SECTION - ANIME PROGRAMANDO -->
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 </p>
