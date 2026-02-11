@@ -1,35 +1,38 @@
-<!-- VISUALIZAÇÕES NO TOPO -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=for-the-badge" />
+<!-- VISUALIZAÇÕES NO CANTO ESQUERDO -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=flat-square" />
 </p>
 
-<!-- BANNER ROXO COM NOME COMPLETO -->
+<!-- BANNER 3D ROXO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,8A2BE2,9400D3&height=300&section=header&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=42&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:9400D3,100:4B0082&animation=twinkling&fontColor=ffffff&stroke=ffffff&strokeWidth=2&desc=Desenvolvedor%20em%20Evolução&descAlign=50&descAlignY=65" />
 </p>
 
-<h1 align="center">Eduardo💻</h1>
+<!-- NOME PRINCIPAL 3D -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=2000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=500&lines=Eduardo💻" />
+</h1>
 
-<!-- ANIMAÇÃO DIGITANDO E APAGANDO -->
+<!-- ANIMAÇÃO DIGITANDO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=17+anos;Desenvolvedor+em+forma%C3%A7%C3%A3o;Concluindo+Desenvolvimento+de+Sistemas;Foco+em+evolu%C3%A7%C3%A3o+constante;Futuro+Dev+Full+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=700&lines=17+anos;Estudante+de+Desenvolvimento+de+Sistemas;Construindo+meu+futuro+linha+por+linha;Mentalidade+de+crescimento+constante;Sempre+em+busca+de+evolução" />
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-🎓 17 anos  
-📚 Concluindo Desenvolvimento de Sistemas  
-🔥 Mentalidade de crescimento constante  
-💻 Construindo meu futuro linha por linha  
+- 🎓 17 anos  
+- 💻 Concluindo curso de Desenvolvimento de Sistemas  
+- 📈 Busco evolução constante  
+- 🔥 Focado em crescer na área de tecnologia  
 
 ---
 
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -37,51 +40,14 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardotzz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardotzz&layout=compact&theme=radical&hide_border=true" width="49%" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eduardotzz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=9400D3"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardotzz&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2"/>
 </p>
 
 ---
 
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eduardotzz&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2" width="100%" />
-</p>
-
----
-
-## 🐍 Snake dos Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eduardotzz/Eduardotzz/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
-
-## 💻 Coding Mode
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
-</p>
-
----
-
-## 📬 Contato
+## 📫 Contato
 
 <p align="center">
   <a href="mailto:edduardohenrique76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://instagram.com/eduardo.97_">
-    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3,8A2BE2,4B0082&height=150&section=footer"/>
-</p>
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge
