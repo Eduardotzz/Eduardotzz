@@ -3,11 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=flat-square" />
 </p>
 
-<!-- BANNER 3D ANIMADO VERMELHO -->
+<!-- BANNER 3D ANIMADO VERMELHO FODA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=40&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling&fontColor=FF0000&stroke=8B0000&strokeWidth=2.5&desc=Desenvolvedor%20em%20Constante%20Evolução&descAlign=50&descAlignY=65&descSize=22&descColor=FF0000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&section=header&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=38&fontAlign=50&fontAlignY=38&animation=twinkling&fontColor=FF0000&stroke=8B0000&strokeWidth=3&color=0:000000,25:1a0000,50:330000,75:660000,100:990000&desc=Desenvolvedor%20em%20Constante%20Evolução&descAlign=50&descAlignY=65&descSize=22&descColor=FF0000" />
 </p>
-
 <!-- NOME PRINCIPAL ESTILIZADO (MANTIDO) -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2500&pause=1500&color=8A2BE2&center=true&vCenter=true&width=950&lines=👾+Eduardo+Henrique+Fernandes+Ferreira;💻+Full+Stack+Developer+in+Progress;🚀+Sempre+em+Busca+de+Evolução" />
