@@ -18,9 +18,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=9400D3&center=true&vCenter=true&width=750&lines=17+anos;Estudante+de+Desenvolvimento+de+Sistemas;Construindo+meu+futuro+linha+por+linha;Mentalidade+de+crescimento+constante;Sempre+em+busca+de+evolução" />
 </p>
 
-<!-- HERO SECTION - PROGRAMADOR VERDE OCUPANDO TELA -->
+<!-- HERO SECTION - ANIME PROGRAMANDO (OCUPANDO MÁXIMO DA TELA) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 </p>
 
 ---
