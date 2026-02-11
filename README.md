@@ -3,24 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=flat-square" />
 </p>
 
-<!-- BANNER PRINCIPAL 3D ROXO ANIMADO -->
+<!-- BANNER 3D ROXO MELHORADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=360&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=38&fontAlign=50&fontAlignY=38&animation=twinkling&color=0:2E003E,25:4B0082,50:6A0DAD,75:8A2BE2,100:4B0082&fontColor=ffffff&stroke=ffffff&strokeWidth=1&desc=Desenvolvedor%20em%20Constante%20Evolução%20💻👋🏻&descAlign=50&descAlignY=63&descSize=22&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=360&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=40&fontAlign=50&fontAlignY=38&animation=twinkling&color=0:2E003E,25:4B0082,50:6A0DAD,75:8A2BE2,100:4B0082&fontColor=ffffff&stroke=ffffff&strokeWidth=1&desc=Desenvolvedor%20em%20Constante%20Evolução%20💻👋🏻&descAlign=50&descAlignY=63&descSize=22&descColor=ffffff" />
 </p>
 
-<!-- BADGES TECNOLÓGICAS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-6A0DAD?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-9400D3?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<!-- GIF TECNOLÓGICO ANIMADO -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="85%" />
-</p>
-<!-- NOME PRINCIPAL ESTILIZADO (MANTIDO) -->
+<!-- NOME PRINCIPAL ESTILIZADO -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2500&pause=1500&color=8A2BE2&center=true&vCenter=true&width=950&lines=👾+Eduardo+Henrique+Fernandes+Ferreira;💻+Full+Stack+Developer+in+Progress;🚀+Sempre+em+Busca+de+Evolução" />
 </h1>
