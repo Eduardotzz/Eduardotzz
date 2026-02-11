@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=flat-square" />
 </p>
 
-<!-- BANNER 3D ANIMADO VERMELHO FODA -->
+<!-- BANNER ROXO 3D MELHORADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&section=header&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=38&fontAlign=50&fontAlignY=38&animation=twinkling&fontColor=FF0000&stroke=8B0000&strokeWidth=3&color=0:000000,25:1a0000,50:330000,75:660000,100:990000&desc=Desenvolvedor%20em%20Constante%20Evolução&descAlign=50&descAlignY=65&descSize=22&descColor=FF0000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=330&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=42&fontAlign=50&fontAlignY=40&color=0:2E0854,25:4B0082,50:6A0DAD,75:9400D3,100:8A2BE2&animation=fadeIn&fontColor=ffffff&stroke=6A0DAD&strokeWidth=2.5&desc=Desenvolvedor%20em%20Constante%20Evolução&descAlign=50&descAlignY=63&descSize=22&descColor=E6CCFF" />
 </p>
 <!-- NOME PRINCIPAL ESTILIZADO (MANTIDO) -->
 <h1 align="center">
