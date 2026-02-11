@@ -3,12 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=flat-square" />
 </p>
 
-<!-- BANNER ROXO 3D MELHORADO COM BORDAS ARREDONDADAS -->
+<!-- BANNER ROXO ANIMADO MELHORADO -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=330&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=42&fontAlign=50&fontAlignY=40&color=0:240046,25:3C096C,50:5A189A,75:7B2CBF,100:9D4EDD&animation=fadeIn&fontColor=ffffff&stroke=3C096C&strokeWidth=3&desc=💻👋🏻%20Desenvolvedor%20em%20Constante%20Evolução&descAlign=50&descAlignY=63&descSize=22&descColor=E0AAFF"
-    style="border-radius: 25px;"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=340&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=40&fontAlign=50&fontAlignY=40&animation=twinkling&color=0:240046,25:3C096C,50:5A189A,75:7B2CBF,100:C77DFF&fontColor=FFFFFF&stroke=4B0082&strokeWidth=3&desc=Desenvolvedor%20em%20Constante%20Evolução%20💻👋🏻&descAlign=50&descAlignY=65&descSize=23&descColor=E0AAFF" />
 </p>
 <!-- NOME PRINCIPAL ESTILIZADO (MANTIDO) -->
 <h1 align="center">
