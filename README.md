@@ -1,24 +1,28 @@
-<!-- BANNER ROXO ANIMADO -->
+<!-- VISUALIZAÇÕES NO TOPO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,9400D3,4B0082&height=300&section=header&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=Eduardotzz&label=VISUALIZAÇÕES&color=8A2BE2&style=for-the-badge" />
 </p>
 
-<h1 align="center">💜 Eduardotzz 💜</h1>
+<!-- BANNER ROXO COM NOME COMPLETO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,8A2BE2,9400D3&height=300&section=header&text=Eduardo%20Henrique%20Fernandes%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
+
+<h1 align="center">Eduardo💻</h1>
 
 <!-- ANIMAÇÃO DIGITANDO E APAGANDO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=80&lines=17+anos;Desenvolvedor+em+forma%C3%A7%C3%A3o;Concluindo+Desenvolvimento+de+Sistemas;Buscando+evolu%C3%A7%C3%A3o+constante;Futuro+Dev+Full+Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=17+anos;Desenvolvedor+em+forma%C3%A7%C3%A3o;Concluindo+Desenvolvimento+de+Sistemas;Foco+em+evolu%C3%A7%C3%A3o+constante;Futuro+Dev+Full+Stack" />
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-💜 **Eduardo Henrique Fernandes Ferreira**  
 🎓 17 anos  
 📚 Concluindo Desenvolvimento de Sistemas  
-🔥 Mentalidade de evolução diária  
-💻 Foco total em crescer como desenvolvedor  
+🔥 Mentalidade de crescimento constante  
+💻 Construindo meu futuro linha por linha  
 
 ---
 
@@ -79,5 +83,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,8A2BE2,9400D3&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3,8A2BE2,4B0082&height=150&section=footer"/>
 </p>
